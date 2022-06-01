@@ -1,0 +1,25 @@
+cc.en.300.bin
+cc.en.300.bin.gz
+meta_Arts_Crafts_and_Sewing.json.gz
+meta_Electronics.json.gz
+metadata_clear.csv
+ranking
+tfr-bert-demo
+images_0
+images_1
+images_2
+images_high_res_0
+images_high_res_1
+images_high_res_2
+NIR.ipynb
+NIR clear version.ipynb
+part.csv
+tfr-bert-for-item-relevance-prediction/.idea
+tfr-bert-for-item-relevance-prediction/.ipynb_checkpoints
+tfr-bert-for-item-relevance-prediction/models
+tfr-bert-for-item-relevance-prediction/tfrecords_8
+tfr-bert-for-item-relevance-prediction/tfrecords_test_64
+tfr-bert-for-item-relevance-prediction/tfrecords_test_128
+tfr-bert-for-item-relevance-prediction/uncased_L-2_H-128_A-2_TF2
+tfr-bert-for-item-relevance-prediction/serving
+tfr-bert-for-item-relevance-prediction/uncased_L-12_H-768_A-12
